@@ -1,4 +1,4 @@
-Refrence to materials included
+Material Reference
 CREDITS:
 
 Bootstrap
