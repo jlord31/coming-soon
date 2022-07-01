@@ -1,5 +1,5 @@
 ;(function () {
-	
+	//js use strict
 	'use strict';
 
 	// iPad and iPod detection	
